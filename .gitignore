@@ -1,0 +1,5 @@
+outputs/
+llama_cpp/
+.venv/
+.idea/
+_unsloth_sentencepiece_temp/
