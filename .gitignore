@@ -3,3 +3,9 @@ llama_cpp/
 .venv/
 .idea/
 _unsloth_sentencepiece_temp/
+.env
+
+*.log
+llama.llama_cpp
+model/
+lora_model
